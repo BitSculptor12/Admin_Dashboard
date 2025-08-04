@@ -2,7 +2,9 @@
 
 A simple and responsive Admin Dashboard built using **HTML**, **CSS**, and **JavaScript**.
 
-![Admin Dashboard Screenshot](![Uploading Screenshot (122).png…]()
+![Admin Dashboard Screenshot](](<img width="1920" height="1080" alt="Screenshot (123)" src="https://github.com/user-attachments/assets/73c0bf45-f690-4e91-a226-1a410e91b195" />
+<img width="1920" height="1080" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/2689e0d0-9fe5-4603-871b-8a6f20e0efca" />
+)
 )
 
 ## 🧾 Project Description
